@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Build a Virtual Machine (VM) Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Fsantiago56/Build-a-Virtual-Machine-VM-Lab/blob/main/README.md))
+  - [Build a Virtual Machine (VM) Lab](https://github.com/Fsantiago56/Build-a-Virtual-Machine-VM-Lab/blob/main/README.md)
 
 
 
