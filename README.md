@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fausto! </h1>
+<h1>Hi, I'm Fausto Santiago! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
